@@ -11,6 +11,7 @@
 
 int main(void) {
     printf("Hello Git");
+    int soma = 20 + 22;
 
     return 0;
 }
