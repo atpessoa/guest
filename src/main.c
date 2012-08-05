@@ -1,9 +1,9 @@
 /*
  * Arquivo: main.c
- * Autor: AntÃ´nio Pessoa
- * Data de criaÃ§Ã£o: 19/04/2012
+ * Autor: Antônio Pessoa
+ * Data de criação: 19/04/2012
  *
- * DescriÃ§Ã£o: Arquivo para testes no git (github)
+ * Descrição: Arquivo para testes no git (github)
  */
 
 #include <stdio.h>
