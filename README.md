@@ -1,4 +1,4 @@
 guest
 =====
 
-Repositorio para testes e aprendizado
+Repositório para testes e aprendizado
