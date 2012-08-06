@@ -12,7 +12,7 @@
 int main(void) {
     printf("Hello Git");
     int soma = 20 + 22;
-    int resposta = soma;
+    /*int resposta = soma;*/
 
     return 0;
 }
